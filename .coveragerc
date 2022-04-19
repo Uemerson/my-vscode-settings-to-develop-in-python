@@ -1,0 +1,4 @@
+[report]
+exclude_lines =
+    pass
+    if __name__ == "__main__":
